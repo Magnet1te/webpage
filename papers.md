@@ -49,7 +49,7 @@
 ### pages
 
 * [Homepage](index.md)
-* [papers](papers.md)
+* [Papers](papers.md)
 
 
 
