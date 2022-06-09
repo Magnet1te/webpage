@@ -46,7 +46,7 @@
 
 * [Perspective: Fifty years of density-functional theory in chemical physics](https://www.chem.pku.edu.cn/jianghgroup/docs/20190514215433428130.pdf)
 
-* [Perspective: Fifty years of density-functional theory in chemical physics]: (https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.71.1253)
+* [Perspective: Fifty years of density-functional theory in chemical physics]: # (https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.71.1253)
 
 * [DFT: A Theory Full of Holes?](https://static1.squarespace.com/static/5b06fe765b409b62b1c16a43/t/5b1998376d2a7347e1a1c07c/1528404025001/PGB14.pdf)
 
