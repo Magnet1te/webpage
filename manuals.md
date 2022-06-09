@@ -25,3 +25,6 @@
 ### Others
 
 * [High-throughput electronic band structure calculations: challenges and tools](https://arxiv.org/pdf/1004.2974.pdf)
+* [Pseudopotentials](https://www.quantum-espresso.org/pseudopotentials/)
+
+![Maroon Bells](https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprd3833704.jpg)
