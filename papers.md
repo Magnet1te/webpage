@@ -1,17 +1,17 @@
 
 
-## General
+### General
 
 * [High-throughput electronic band structure calculations: challenges and tools](https://arxiv.org/pdf/1004.2974.pdf)
 
-<h3> DFT </h3>
+###DFT
 
 * [Self-Consistent Equations Including Exchange and Correlation Effects](https://journals.aps.org/pr/pdf/10.1103/PhysRev.140.A1133)
 
 * [Inhomogeneous Electron Gas](https://journals.aps.org/pr/pdf/10.1103/PhysRev.136.B864)
 
 
-<h2>Wannier</h2>
+###Wannier
 
 * [Maximally-localized generalized Wannier functions for composite energy bands](https://arxiv.org/pdf/cond-mat/9707145.pdf)
 
@@ -24,7 +24,7 @@
 * [Maximally-localized Wannier functions in perovskites: Cubic BaTiO<sub>3</sub>](https://arxiv.org/pdf/cond-mat/9802210.pdf)
 
 
-## Others/Interesting
+### Others/Interesting
 
 * [The rise of quantum materials](https://www.researchgate.net/profile/Franklin-Paras-Hernandez/post/What-is-the-importance-of-quantum-materials-in-thin-film-technology/attachment/5bf571e1cfe4a7645503c856/AS%3A695417138319360%401542811774042/download/The+rise+of+quantum+materials.pdf)
 
@@ -39,6 +39,7 @@
 * [Nobel Lecture: Electronic structure of matter-wave functions and density functionals](https://www.nobelprize.org/uploads/2018/06/kohn-lecture.pdf)
 
 * [Perspective: Fifty years of density-functional theory in chemical physics](https://www.chem.pku.edu.cn/jianghgroup/docs/20190514215433428130.pdf)
+
 [Perspective: Fifty years of density-functional theory in chemical physics]: # (https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.71.1253)
 
 * [DFT: A Theory Full of Holes?](https://static1.squarespace.com/static/5b06fe765b409b62b1c16a43/t/5b1998376d2a7347e1a1c07c/1528404025001/PGB14.pdf)
