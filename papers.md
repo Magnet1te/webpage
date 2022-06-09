@@ -9,7 +9,7 @@
 
 [Self-Consistent Equations Including Exchange and Correlation Effects](https://journals.aps.org/pr/pdf/10.1103/PhysRev.140.A1133)
 
-[]()
+[Inhomogeneous Electron Gas](https://journals.aps.org/pr/pdf/10.1103/PhysRev.136.B864)
 
 
 ## Wannier
