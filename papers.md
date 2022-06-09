@@ -1,4 +1,10 @@
+### Pages
 
+* [Homepage](index.md)
+* [Papers](papers.md)
+* [Manuals](manuals.md)
+
+---
 
 ### General
 
@@ -45,14 +51,3 @@
 * [DFT: A Theory Full of Holes?](https://static1.squarespace.com/static/5b06fe765b409b62b1c16a43/t/5b1998376d2a7347e1a1c07c/1528404025001/PGB14.pdf)
 
 * [A Primer in Density Functional Theory](https://www.physics.udel.edu/~bnikolic/QTTG/NOTES/DFT/BOOK=primer_dft.pdf)
-
-### pages
-
-* [Homepage](index.md)
-* [Papers](papers.md)
-* [Manuals](manuals.md)
-
-
-
-
-
