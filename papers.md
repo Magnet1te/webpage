@@ -33,6 +33,7 @@
 ### Others/Interesting
 
 * [The rise of quantum materials](https://www.researchgate.net/profile/Franklin-Paras-Hernandez/post/What-is-the-importance-of-quantum-materials-in-thin-film-technology/attachment/5bf571e1cfe4a7645503c856/AS%3A695417138319360%401542811774042/download/The+rise+of+quantum+materials.pdf)
+ &#10003 &#9989
 
 * [The 2020 Quantum Materials Roadmap](https://arxiv.org/ftp/arxiv/papers/2102/2102.02644.pdf)
 
