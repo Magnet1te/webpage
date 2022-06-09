@@ -18,7 +18,7 @@
 * [wannier90: User Guide](https://raw.githubusercontent.com/wannier-developers/wannier90/v3.1.0/doc/compiled_docs/user_guide.pdf)
 * 
 * wannier90 [1] and [2]
-[1]: [tutorial](https://raw.githubusercontent.com/wannier-developers/wannier90/v3.1.0/doc/compiled_docs/tutorial.pdf) and \
+[1]: [tutorial](https://raw.githubusercontent.com/wannier-developers/wannier90/v3.1.0/doc/compiled_docs/tutorial.pdf)
 [2]: [solutions](https://raw.githubusercontent.com/wannier-developers/wannier90/v3.1.0/doc/compiled_docs/solution_booklet.pdf)
 
 
