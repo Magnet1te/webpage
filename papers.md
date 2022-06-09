@@ -13,6 +13,8 @@
 
 ### Wannier
 
+* [wannier90: User Guide](https://raw.githubusercontent.com/wannier-developers/wannier90/v3.1.0/doc/compiled_docs/user_guide.pdf)
+
 * [Maximally-localized generalized Wannier functions for composite energy bands](https://arxiv.org/pdf/cond-mat/9707145.pdf)
 
 * [Maximally localized Wannier functions: Theory and applications](https://arxiv.org/pdf/1112.5411.pdf)
