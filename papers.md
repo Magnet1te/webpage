@@ -46,4 +46,12 @@
 
 * [A Primer in Density Functional Theory](https://www.physics.udel.edu/~bnikolic/QTTG/NOTES/DFT/BOOK=primer_dft.pdf)
 
+### pages
+
+* [Homepage](index.md)
+* [papers](papers.md)
+
+
+
+
 
