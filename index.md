@@ -12,4 +12,4 @@
 
 * [Dillinger](https://dillinger.io/)
 
-![sdfsdf](https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2016-10/Mt%20Rainier.jpg?itok=PwkaCW9B)
+![Mount Rainier](https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2016-10/Mt%20Rainier.jpg?itok=PwkaCW9B)
