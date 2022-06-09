@@ -4,14 +4,14 @@
 
 * [High-throughput electronic band structure calculations: challenges and tools](https://arxiv.org/pdf/1004.2974.pdf)
 
-###DFT
+### DFT
 
 * [Self-Consistent Equations Including Exchange and Correlation Effects](https://journals.aps.org/pr/pdf/10.1103/PhysRev.140.A1133)
 
 * [Inhomogeneous Electron Gas](https://journals.aps.org/pr/pdf/10.1103/PhysRev.136.B864)
 
 
-###Wannier
+### Wannier
 
 * [Maximally-localized generalized Wannier functions for composite energy bands](https://arxiv.org/pdf/cond-mat/9707145.pdf)
 
