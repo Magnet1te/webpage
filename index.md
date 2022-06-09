@@ -1,8 +1,9 @@
-## Pages
+### Pages
 
-[papers](papers.md)
+* [Homepage](index.md)
+* [papers](papers.md)
 
 
-## Useful links
+### Useful links
 
 [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
