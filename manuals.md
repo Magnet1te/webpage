@@ -28,4 +28,4 @@
 
 * [Pseudopotentials](https://www.quantum-espresso.org/pseudopotentials/)
 
-![Maroon Bells](https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprd3833704.jpg)
+![Maroon Bells](https://blog-assets.thedyrt.com/uploads/2018/07/Maroon-Bells-Forest-Service-1024x680.jpg)
