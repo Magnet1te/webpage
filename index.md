@@ -1,7 +1,7 @@
 ### Pages
 
 * [Homepage](index.md)
-* [papers](papers.md)
+* [Papers](papers.md)
 
 
 ### Useful links
