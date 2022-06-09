@@ -19,7 +19,7 @@
 * 
 * wannier90 
 [tutorial](https://raw.githubusercontent.com/wannier-developers/wannier90/v3.1.0/doc/compiled_docs/tutorial.pdf) and 
-[solutions](https://raw.githubusercontent.com/wannier-developers/wannier90/v3.1.0/doc/compiled_docs/solution_booklet.pdf)
+[solution](https://raw.githubusercontent.com/wannier-developers/wannier90/v3.1.0/doc/compiled_docs/solution_booklet.pdf)
 
 
 ### Others
