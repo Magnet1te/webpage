@@ -41,7 +41,7 @@
 
 * [P.W. Anderson (investigate emergent phenomena papers)](https://en.wikipedia.org/wiki/Philip_W._Anderson#cite_note-3)
 
-* [Van der Waals heterostructures (relevant?)](https://qs3.scripts.mit.edu/images/pdf/vanderWaalsHeterostructures.pdf)
+* [Van der Waals heterostructures](https://qs3.scripts.mit.edu/images/pdf/vanderWaalsHeterostructures.pdf)
 
 * [Nobel Lecture: Electronic structure of matter-wave functions and density functionals](https://www.nobelprize.org/uploads/2018/06/kohn-lecture.pdf)
 
