@@ -10,8 +10,8 @@
 
 ### Quantum Espresso
 
-* [Input Data Description](https://www.quantum-espresso.org/documentation/input-data-description/) and
-[pw.x Input File Description](https://www.quantum-espresso.org/Doc/INPUT_PW.html)
+* [Input Data Description](https://www.quantum-espresso.org/documentation/input-data-description/)
+* [pw.x Input File Description](https://www.quantum-espresso.org/Doc/INPUT_PW.html) and [pw.x guide](https://www.quantum-espresso.org/Doc/pw_user_guide/)
 
 
 ### wannier90
