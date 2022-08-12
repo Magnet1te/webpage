@@ -9,7 +9,9 @@
 
 ### Condensed Matter Physics
 
-* [Student Video: Tight Binding Model](https://www.youtube.com/watch?v=vGyHgaXnAMA)
+* ![Student Video: Tight Binding Model](https://www.youtube.com/watch?v=vGyHgaXnAMA)
+
+* [ICTP Scandalo's Lectures](https://www.youtube.com/playlist?list=PLaNkJORnlhZkkKNVDydXq3i8Mdi4sjZye)
 
 
 
