@@ -30,6 +30,12 @@
 
 * [Maximally-localized Wannier functions in perovskites: Cubic BaTiO<sub>3</sub>](https://arxiv.org/pdf/cond-mat/9802210.pdf)
 
+### Dielectric constant
+
+* [Dielectric Function of a Model Insulator](https://sci-hub.se/10.1103/PhysRev.179.892)
+
+* [Self-Consistent Field Approach to the Many-Electron Problem](https://sci-hub.se/10.1103/physrev.115.786)
+
 
 ### Others/Interesting
 
