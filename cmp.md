@@ -11,7 +11,7 @@
 
 <!--- [Student Video: Tight Binding Model](https://www.youtube.com/watch?v=vGyHgaXnAMA) -->
 
-* [ICTP Scandalo's Lectures](https://www.youtube.com/playlist?list=PLaNkJORnlhZkkKNVDydXq3i8Mdi4sjZye)
+* [ICTP Solid State Physics lecture videos (Scandalo)](https://www.youtube.com/playlist?list=PLaNkJORnlhZkkKNVDydXq3i8Mdi4sjZye)
 * [Solid State Physics lecture videos (Sergey Frolov)](https://www.youtube.com/playlist?list=PLtTPtV8SRcxi91n9Mni2xcQX4KhjX91xp)
 
 
