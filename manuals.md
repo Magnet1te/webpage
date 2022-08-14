@@ -27,9 +27,10 @@
 * [Documentation](http://www.xcrysden.org/Documentation.html)
 * [XSF file description](http://www.xcrysden.org/doc/XSF.html#l.29)
 
-
 ### Others
 
+* [Grace](https://plasma-gate.weizmann.ac.il/Grace/) plotting tool
+ 
 * [High-throughput electronic band structure calculations: challenges and tools](https://arxiv.org/pdf/1004.2974.pdf)
 
 * [Pseudopotentials](https://www.quantum-espresso.org/pseudopotentials/)
