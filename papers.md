@@ -64,4 +64,6 @@
 
 * [Introduction to the Synthesis of Quantum Materials: Some General Guidelines and A Few Tricks](https://www.worldscientific.com/doi/pdf/10.1142/9789811219375_0001)
 
+* [Energy-Band Structure of Germanium and Silicon: The k y Method](https://sci-hub.se/10.1103/physrev.142.530)
+
 ![San Juan Moutains](https://www.backpacker.com/wp-content/uploads/2014/05/wilson-peak-autumn.jpg)
