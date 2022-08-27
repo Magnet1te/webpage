@@ -18,7 +18,7 @@
 * [Solid State Physics lecture videos (Steven Simon)](https://www.youtube.com/playlist?list=PLd9hKAUC3AZuo7is-aN45pmfDwJHOqKAj)
 
 * [Condensed Matter Physics lecture videos (LUMS)](https://www.youtube.com/playlist?list=PLNlZr0N1HOLW0bvRNVxpSsf89oRrpYypa)
-    * [Reading Band Diagrams](https://www.youtube.com/watch?v=HiCJlRhnG4I)
+   * [Reading Band Diagrams](https://www.youtube.com/watch?v=HiCJlRhnG4I)
 
 
 ![King Peak](https://wildaboututah.org/images/wiki.wright.1280px-Kings_Peak_Close_Up.jpg)
