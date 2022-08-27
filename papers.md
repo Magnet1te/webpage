@@ -42,6 +42,8 @@
 * [The rise of quantum materials](https://www.researchgate.net/profile/Franklin-Paras-Hernandez/post/What-is-the-importance-of-quantum-materials-in-thin-film-technology/attachment/5bf571e1cfe4a7645503c856/AS%3A695417138319360%401542811774042/download/The+rise+of+quantum+materials.pdf) 
 &#9989;
 
+[More is Different](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf)
+
 * [How Chemistry and Physics Meet in the Solid State](https://www.ch.ic.ac.uk/harrison/Group/Mallia/3year_lab_elec_str/hoffmann.pdf)
 
 * [The 2020 Quantum Materials Roadmap](https://arxiv.org/ftp/arxiv/papers/2102/2102.02644.pdf)
