@@ -9,5 +9,5 @@ random links
 
 | Unit  | Equivalences |
 | ------------- | ------------- |
-| a.u  | 1.8897259886 a.u. = 1   |
+| a.u  | 1.8897259886 a.u. = 1 &#143;  |
 | Content Cell  | Content Cell  |
