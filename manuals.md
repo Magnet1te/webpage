@@ -10,6 +10,7 @@
 
 ### Quantum Espresso
 
+* [Quick Intro](https://web.ics.purdue.edu/~ibilion/www.zabaras.com/Courses/MAE715/HwsPDF/HW5/PWSCF-Presentation.pdf)
 * [Input Data Description](https://www.quantum-espresso.org/documentation/input-data-description/)
 * [pw.x Input File Description](https://www.quantum-espresso.org/Doc/INPUT_PW.html) and [pw.x guide](https://www.quantum-espresso.org/Doc/pw_user_guide/)
 
