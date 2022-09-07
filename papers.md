@@ -11,6 +11,8 @@
 
 * [High-throughput electronic band structure calculations: challenges and tools](https://arxiv.org/pdf/1004.2974.pdf)
 
+* [Summary of the "milestone" pseudopotential (PP) papers](https://mattermodeling.stackexchange.com/questions/1521/what-are-the-types-of-pseudopotentials)
+
 ### DFT
 
 * [Self-Consistent Equations Including Exchange and Correlation Effects](https://journals.aps.org/pr/pdf/10.1103/PhysRev.140.A1133)
