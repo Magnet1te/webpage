@@ -17,7 +17,7 @@
 
 ### Work Music
 
-* [Work Music Lab](https://www.youtube.com/c/MusicLabWork/videos)
+* [Chill Music Lab](https://www.youtube.com/c/MusicLabChill)
 
 * [Coffee Relaxing Jazz](https://www.youtube.com/channel/UCKvKjZ3l9azWz4F49q2R3tQ)
   + [Chillout Rooftop](https://www.youtube.com/watch?v=xbXZFoAqO2E)
